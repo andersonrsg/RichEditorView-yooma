@@ -82,3 +82,9 @@ table {overflow-x: scroll;}
 th, td {max-width: 200px; min-width:50px;}
 table, td, th{border-collapse:collapse; border:1px solid #777;}
 td{padding:5px 10px; height:35px;}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url('OpenSans-Regular.ttf');
+}
+
